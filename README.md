@@ -3,7 +3,7 @@
 Soy **Juan González Pardo**, estudiante de último año de Ingeniería Informática en la Universidad de Zaragoza, actualmente cursando Erasmus en la **Università degli Studi di Torino**. Lo que más me gusta es construir las ideas que tengo y verlas funcionar de principio a fin.
 
 📍 Foco actual: **Backend con Python/FastAPI** e **IA aplicada** (integración con LLMs, visión por computador)
-📫 Contacto: juglezpar@gmail.com · [LinkedIn](https://www.linkedin.com/in/juan-gonzalez-pardo-119463340/)
+📫 Contacto: juglezpar@gmail.com · [LinkedIn]([https://www.linkedin.com/in/juan-gonzalez-pardo-119463340/](https://www.linkedin.com/in/juan-gonz%C3%A1lez-pardo-119463340/))
 
 ---
 

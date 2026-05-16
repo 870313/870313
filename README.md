@@ -39,7 +39,7 @@ App móvil con IA actualmente en **beta cerrada en Google Play Store**, desarrol
 📌 [Ver demo y carrusel en LinkedIn](https://www.linkedin.com/posts/juan-gonz%C3%A1lez-pardo-119463340_desarrollo-ia-reactnative-ugcPost-7434272708818878464-X_GQ)
 📩 Acceso a beta bajo petición: juglezpar@gmail.com
 
-> _El código fuente se mantiene en repositorio privado. Disponible para revisión en procesos de selección._
+> _El código fuente se mantiene en repositorio privado.
 
 ---
 
